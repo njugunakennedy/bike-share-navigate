@@ -1,4 +1,4 @@
-# Google Data Analytics Professional Capstone
+# Google Data Analytics Capstone
 ### Case Study 1: How Does A Bike-Share Navigate Speedy Success?
 
 
